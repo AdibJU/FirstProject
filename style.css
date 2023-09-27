@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p h1 {
+    color: blue;background-color: brown;
+}
+.btn2{
+    border: 5px  solid red ;
+    border-radius: 10px;
+    
+margin-right: 100px;
+    padding:20px 40px;
+}
+.btn1 {
+    padding: 20px 40px 30px 30px;
+    border:5px dotted black ;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    font-family: 'poppins' 'sans-sarif';
+    font-weight: normal;
+}
+.ce{
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px red;
+    gap: 20px;
+    list-style: none;
+}
+#mm{
+    color: red !important;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
